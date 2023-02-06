@@ -8,7 +8,7 @@ A color scheme to have a more readable experience with PHP, HTML, CSS and JavaSc
 
 The goal of this color scheme is to let you focus on your code with carefully selected shades of colors that are the foundation of an uncompromising, non-distractive user interface.<br>
 
-###### This color scheme is based on the Monokai color scheme and originally intended for **PhpStorm**.
+###### This scheme is based on the Monokai color scheme and intended for PhpStorm and WebStorm.
 
 <a href="https://plugins.jetbrains.com/plugin/21004-emotality-color-scheme" target="_blank">
 <img src="https://raw.githubusercontent.com/emotality/files/master/JetBrains/idea-get_from_marketplace.png" height="53">
